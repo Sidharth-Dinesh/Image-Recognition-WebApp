@@ -1,7 +1,7 @@
 # Image-Recognition-WebApp
 
 1. Register Page:
-<img src="1. Register.PNG" alt="Register" width="700" height="500">
+<img src="1. Register.PNG" alt="Register">
 
 2. Sign In Page:
 <img src="2. Sign In.PNG" alt="SignIn" width="700" height="500">
