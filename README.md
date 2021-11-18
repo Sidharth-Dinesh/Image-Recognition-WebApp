@@ -1,7 +1,7 @@
 # Image-Recognition-WebApp
 
 1. Register Page:
-<img src="https://drive.google.com/file/d/1f-bck_1nca5Vab-bcFUjdBe5e62qf-HQ/view?usp=sharing" alt="Input" width="400" height="300">
+<img src="1. Register" alt="Input" width="400" height="300">
 
 2. Sign In Page:
 <img src="https://drive.google.com/file/d/1FEG38q6xl0-4mKEdbPH6J2jPZsab1Y-x/view?usp=sharing" alt="Input" width="400" height="300">
